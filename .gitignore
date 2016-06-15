@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+HaloVersionSelector/bin/Debug/HaloVersionSelector.exe
+*.exe
+HaloVersionSelector/bin/Debug/HaloVersionSelector.vshost.exe.manifest
+*.resx
+*.resources
+HaloVersionSelector/Properties/AssemblyInfo.cs
+*.Cache
+HaloVersionSelector/obj/Debug/HaloVersionSelector.csproj.FileListAbsolute.txt
